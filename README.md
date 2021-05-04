@@ -46,7 +46,7 @@ Pay special attention to what data the frontend is expecting from each API respo
 ## Steps to follow to run the application:
 ### Backend:
 Install all dependencies
-Falsk and postgres
+Flask and postgres
 create database trivia in postgres
 
 In Project folder
